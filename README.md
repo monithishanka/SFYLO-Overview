@@ -1,7 +1,7 @@
 # 🛡️ SFYLO: Next-Gen Mobile Telemetry & Family Safety
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="SFYLO Operations Console" width="850"/>
+  <img src="screenshots/home.png" alt="SFYLO Webpage" width="850"/>
 </p>
 
 <p align="center">
