@@ -119,9 +119,6 @@ Zero-knowledge authentication viewport featuring rate-limited credential checks,
 
 ### 4. Zero-Friction Mobile Pairing Assistant
 The companion setup screen on target hardware enables instant 60-second linking via an ephemeral 6-digit handshake code (`SF-XXXX`) before entering stealth mode.
-<p align="center">
-  <img src="screenshots/mobile_setup.jpg" alt="Mobile Pairing Assistant" width="400"/>
-</p>
 
 ---
 
