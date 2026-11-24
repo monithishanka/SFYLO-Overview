@@ -1,4 +1,4 @@
-# 🛡️ SFYLO: Next-Gen Stealth Mobile Telemetry & Family Protection Platform
+# 🛡️ SFYLO: Next-Gen Mobile Telemetry & Family Safety
 
 <p align="center">
   <img src="screenshots/dashboard.png" alt="SFYLO Operations Console" width="850"/>
